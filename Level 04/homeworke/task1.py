@@ -1,0 +1,1 @@
+print("გადმოვწერე და გავაკეტე sing up sololerns")
