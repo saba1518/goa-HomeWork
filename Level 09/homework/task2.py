@@ -1,0 +1,2 @@
+
+#gavakete sololearsi mocemuli davaleba
