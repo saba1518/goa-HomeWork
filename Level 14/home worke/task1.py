@@ -1,0 +1,1 @@
+#gavakete sololearsi listamde
